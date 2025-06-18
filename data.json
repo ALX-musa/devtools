@@ -1,0 +1,29 @@
+{
+    "webDeveloperTools": [
+        {
+            "name": "Visual Studio Code",
+            "description": "A powerful code editor with extensions for web development.",
+            "url": "https://code.visualstudio.com/"
+        },
+        {
+            "name": "Postman",
+            "description": "A tool for testing APIs and debugging network requests.",
+            "url": "https://www.postman.com/"
+        },
+        {
+            "name": "Git",
+            "description": "Version control system to track changes in code.",
+            "url": "https://git-scm.com/"
+        },
+        {
+            "name": "Chrome DevTools",
+            "description": "Built-in browser tools for debugging and optimizing web applications.",
+            "url": "https://developer.chrome.com/docs/devtools/"
+        },
+        {
+            "name": "Node.js",
+            "description": "JavaScript runtime for building server-side applications.",
+            "url": "https://nodejs.org/"
+        }
+    ]
+}
